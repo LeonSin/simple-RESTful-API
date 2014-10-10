@@ -1,0 +1,15 @@
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+__author__ = 'tigerstudent'
+
+#发送通知邮件的email账户
+host = "smtp.qq.com"
+port = 25
+notification_email = "xxxxxx"
+notification_email_pwd = "xxxxxxx"
+
+#dedicated email account
+dedicated_email = "xxxxxxxxxxxxx"
+
+
+
